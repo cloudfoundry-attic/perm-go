@@ -16,6 +16,8 @@
 		Permission
 		HasPermissionRequest
 		HasPermissionResponse
+		ListResourcePatternsRequest
+		ListResourcePatternsResponse
 		Role
 		CreateRoleRequest
 		CreateRoleResponse
